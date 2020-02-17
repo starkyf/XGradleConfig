@@ -1,8 +1,8 @@
 ext.dependenceConfig = [
-    compileSdkVersion          : 23,
-    buildToolsVersion          : "24.0.0",
-    minSdkVersion              : 15,
-    targetSdkVersion           : 23,
+    compileSdkVersion          : 29,
+    buildToolsVersion          : "29.0.3",
+    minSdkVersion              : 19,
+    targetSdkVersion           : 29,
     deps             : [
         "3rd-fastjson"        : 'com.alibaba:fastjson:1.1.56.android',
         "3rd-leakcanary-android": 'com.squareup.leakcanary:leakcanary-android:1.5.1',
