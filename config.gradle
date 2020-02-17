@@ -4,6 +4,6 @@ ext.minSdkVersion=19
 ext.targetSdkVersion=29
 ext.appcompat="1.1.0"
 ext.core-ktx="1.2.0"
-ext.constraintlayout="1.1.3",
+ext.constraintlayout="1.1.3"
 ext.kotlin-stdlib-jdk7="1.3.61"
 ext.gradle="3.5.3"
