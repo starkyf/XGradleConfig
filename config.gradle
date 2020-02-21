@@ -10,7 +10,15 @@ ext.dependenceConfig = [
 	kotlinStdlibJdk7      	   : "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version",
     kotlinGradlePlugin		   : "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version",
     gradle					   : "com.android.tools.build:gradle:3.5.3",
-	
+	MagicIndicator			   : "com.github.hackware1993:MagicIndicator:1.6.0",
+	leakcanaryAndroid		   : "com.squareup.leakcanary:leakcanary-android:2.2",
+	testJunit		   		   : "junit:junit:4.12",
+	androidTestJunit     	   : "androidx.test.ext:junit:1.1.1",
+	androidTestEspressoCore    : "androidx.test.espresso:espresso-core:3.2.0",
+	gson     				   : "com.google.code.gson:gson:2.8.6",
+	logger     				   : "com.orhanobut:logger:2.2.0",
+
+
 	//签名
     signing                    : [
             "keyAlias"     : 'zhangmy',
