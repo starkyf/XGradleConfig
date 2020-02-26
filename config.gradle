@@ -41,6 +41,8 @@ ext.dependenceConfig = [
         mmkv             : 'com.tencent:mmkv:1.0.24',
         rxandroid        : 'io.reactivex.rxjava2:rxandroid:2.0.2',
         okhttp           : 'com.squareup.okhttp3:okhttp:4.4.0',
+        tmapmanager      : 'com.bw:tmapmanager:0.9.4',
+
 
         //签名
         signing          : [
